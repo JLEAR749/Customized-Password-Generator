@@ -5,11 +5,15 @@ A users is in need to create a new secure password.   The user will click on the
 
 ##screenshot
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ![screenshot](assets/Screenshotchallenge3.png)
 
 =======
 ![screenshot](assets\Screenshotchallenge3.png)
+=======
+![screenshot](Screenshotchallenge3.png)
+>>>>>>> 9c67a724ddbbb978cb2b89c76e8505c431df7a64
 
 >>>>>>> 5eac81985e4b1942fb806d5f75f5b281c4259896
 ## Table of Contents (Optional)
