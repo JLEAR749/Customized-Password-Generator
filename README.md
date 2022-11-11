@@ -3,6 +3,9 @@
 ## Description
 A users is in need to create a new secure password.   The user will click on the button to generate a password.  The user will be presented with a series of prompts for password criteria. THe user will be able to select which criteria to include in the password such as a length of at least 8 characters and no more than 128 characters.  The user can customeize the password to include lowercase, uppercase, numeric, and/or special characters.  When the user has completed the prompts the computer will validated and at least one character type should be selected.  The computer will then generate a passworkd that matches the selected criteria.  The password is displayed in an alert message.  The motivation behind this was to work on a project that put all of the learning objections of the week.   I was able to continue my knowledge and understanding of JavaScript.      
 
+##screenshot
+![screenthot](assest/Screenshotchalleneg3.png)
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.

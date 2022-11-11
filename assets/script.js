@@ -27,16 +27,15 @@ function writePassword() {
 }
 //checks to see if length meets criteria
 if (length < 8 || length > 128){
-  alert ("Please try again.")
-
+  //alert ("Please try again.")
+}
 // make sure the user actually typed a number
-var generatePassword = parseInt(length); 
+var generatePassword = parseInt(length);{ 
   if (isNaN(length))
-    alert("Please put in a number");
+    //alert("Please put in a number");
 }
 
 // Pick X random characters, where X is the length of the password
-
 document.getElementById("password").value
 
 //check to include all characters included to meet criteria 
